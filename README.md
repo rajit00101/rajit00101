@@ -1,19 +1,19 @@
 # Rajit Sharma
 
-Software engineering intern at **Amtrak** and an **M.S. student in Computer Science and Artificial Intelligence at Boston University**, with graduation expected in **May 2028**. I graduated from Rutgers University in May 2026 with a B.S. in Finance, a second major in Computer Science, and a minor in Japanese.
+I'm a software engineering intern at **Amtrak** and an **M.S. student in Computer Science and Artificial Intelligence at Boston University**, with graduation expected in **May 2028**. I graduated from Rutgers University in May 2026 with a B.S. in Finance, a second major in Computer Science, and a minor in Japanese.
 
-I build tools that reduce repetitive work and make structured data easier to use. My experience includes Python automation, application debugging, testing, and technical documentation. Through graduate study, I am developing my knowledge of AI and machine learning and exploring how to apply it to practical software problems.
+I like building tools that make repetitive tasks easier. Most of my experience so far has been in Python automation, data processing, debugging, testing, and documentation. I'm building on that experience through graduate study in AI and machine learning.
 
 **[Resume (PDF)](https://github.com/rajit00101/rajit00101/blob/main/resume/Rajit_Sharma_Resume_2026.pdf)** · **[LinkedIn](https://www.linkedin.com/in/rajit00101/)** · **[Public repositories](https://github.com/rajit00101?tab=repositories)**
 
 ## Experience and interests
 
-- **Software and workflow automation:** At Amtrak, I work on Python data workflows, application debugging, regression testing, and documentation. Previously, at New York Life, I developed Python tools for data analysis and spreadsheet workflows.
-- **Reliable Python tools:** I am developing reusable components, SQLite-backed entry validation, and automated tests to make structured data processing easier to maintain.
-- **Personal infrastructure lab:** I manage Proxmox virtual machines, Docker and LXC containers, and self-hosted services while exploring backups, service reliability, and fault recovery.
-- **Application development:** My academic projects include Pizza Factory, a Java ordering application built with Gradle and FXML, with modular UI components, persistent storage, and collaborative version control.
+- **Software and automation:** At Amtrak, I work on Python data workflows, application debugging, regression testing, and documentation. Previously, at New York Life, I built Python tools for data analysis and spreadsheet workflows.
+- **Python tools:** I'm turning a data-processing script into a Python package, with reusable components, SQLite checks, and automated tests.
+- **Homelab:** I run Proxmox virtual machines, Docker and LXC containers, and self-hosted services. I use the lab to learn about backups, reliability, and recovering when something breaks.
+- **Course projects:** I worked on Pizza Factory, a Java ordering app built with Gradle and FXML. The project included a modular interface, persistent storage, and team development through Git and Bitbucket.
 
-## Technologies I use
+## Tools I use
 
 | Area | Technologies |
 | --- | --- |
@@ -21,6 +21,6 @@ I build tools that reduce repetitive work and make structured data easier to use
 | Applications and data | pandas, pytest, React, Node.js, PostgreSQL, SQLite, Jupyter Notebook |
 | Tools and infrastructure | Git, Docker, Proxmox, LXC, DNS, backups |
 
-## What I am developing next
+## What I want to learn next
 
-I want to learn how to train models directly and integrate them into projects that solve practical problems. Alongside that AI/ML learning, I am continuing to improve software testing, maintainability, and data quality. My goal is to document the problem, implementation choices, evaluation, and lessons learned as I build.
+I want to learn how to train models and integrate them into applications that solve practical problems. I also want to get better at testing my work and writing down what I tried, how I checked the results, and what I would change.
