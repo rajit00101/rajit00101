@@ -1,6 +1,6 @@
 # Rajit Sharma
 
-Software engineering intern at **Amtrak** and a graduate student in **computer science and AI at Boston University**. I graduated from Rutgers University in May 2026 with a B.A. in Computer Science, a B.S. in Finance, and a minor in Japanese.
+Software engineering intern at **Amtrak** and an **M.S. student in Computer Science and Artificial Intelligence at Boston University**, with graduation expected in **May 2028**. I graduated from Rutgers University in May 2026 with a B.S. in Finance, a second major in Computer Science, and a minor in Japanese.
 
 I build tools that reduce repetitive work and make structured data easier to use. My experience includes Python automation, application debugging, testing, and technical documentation. Through graduate study, I am developing my knowledge of AI and machine learning and exploring how to apply it to practical software problems.
 
@@ -9,7 +9,7 @@ I build tools that reduce repetitive work and make structured data easier to use
 ## Experience and interests
 
 - **Software and workflow automation:** At Amtrak, I work on Python data workflows, application debugging, regression testing, and documentation. Previously, at New York Life, I developed Python tools for data analysis and spreadsheet workflows.
-- **Reliable Python tools:** I am developing reusable components, data validation, and automated tests to make structured data processing easier to maintain.
+- **Reliable Python tools:** I am developing reusable components, SQLite-backed entry validation, and automated tests to make structured data processing easier to maintain.
 - **Personal infrastructure lab:** I manage Proxmox virtual machines, Docker and LXC containers, and self-hosted services while exploring backups, service reliability, and fault recovery.
 - **Application development:** My academic projects include Pizza Factory, a Java ordering application built with Gradle and FXML, with modular UI components, persistent storage, and collaborative version control.
 
@@ -18,7 +18,7 @@ I build tools that reduce repetitive work and make structured data easier to use
 | Area | Technologies |
 | --- | --- |
 | Programming | Python, Java, JavaScript, SQL, HTML/CSS |
-| Applications and data | pandas, pytest, React, Node.js, PostgreSQL, Jupyter Notebook |
+| Applications and data | pandas, pytest, React, Node.js, PostgreSQL, SQLite, Jupyter Notebook |
 | Tools and infrastructure | Git, Docker, Proxmox, LXC, DNS, backups |
 
 ## What I am developing next
